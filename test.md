@@ -1,5 +1,5 @@
 # This is a sample markdown file for geog-510 at University Tennesse Kentuky
-![UTK GIS Logo]https://geog-510.gishub.org/_static/logo.png
+![UTK GIS Logo](https://geog-510.gishub.org/_static/logo.png)
 ## this is a section heading
 
 ### This is some detail about a sub section
