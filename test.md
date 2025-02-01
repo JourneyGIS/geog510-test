@@ -6,7 +6,7 @@
 
 ## This is another section heading
 
-**This text is important so it is bold*
+*This text is important so it is bold*
 
 ---
 
