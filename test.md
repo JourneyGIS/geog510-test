@@ -1,4 +1,4 @@
-# This is a sample markdown file for geog-510 at University Tennesse Kentuky
+# This is a sample markdown file for geog-510 at University Tennesse Kentucky
 ![UTK GIS Logo](https://geog-510.gishub.org/_static/logo.png)
 ## this is a section heading
 
